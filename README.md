@@ -19,9 +19,8 @@ The repository **CapstoneDeveloperSurvey-Analytics** is organized as follows:
 - **Images/** – Contains supplementary screenshots and visualizations (e.g., `Screenshot1.png`, `Screenshot2.png`).
 
 ## How to Explore the Project
-1. Open `Notebook/Capstone_Survey_Analysis_Clean.ipynb` to view the complete analysis.  
-2. Explore the `Dashboards/` folder for the PDF and individual images summarizing insights.  
-3. Refer to the `Images/` folder for additional visualizations and screenshots.
+Open Capstone_Survey_Analysis_Clean.ipynb to view the complete analysis.
+Explore the dashboard PDF and image files (such as Capstone_Dashboards.pdf, Current_Tech_Usage.png, Future_Tech_Trend.png, and Demographics.png) to review the key insights and visualizations.
 
 ## Key Insights
 - Highlights current and future technology trends among developers  
